@@ -2,7 +2,7 @@
 
 A witty AI-powered conversation simulator that creates entertaining banter between a husband and wife using different AI models. This Streamlit application allows you to configure the conversation topic, select different AI models for each character, and watch as they engage in humorous exchanges.
 
-image.png
+<img width="1633" height="898" alt="image" src="https://github.com/user-attachments/assets/59784bf1-f74a-46d9-9699-3adff3b73387" />
 
 ## Features
 
